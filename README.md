@@ -49,8 +49,11 @@ Future SaaS concepts
 Connect with me through:
 
 LinkedIn :https://www.linkedin.com/in/balram-singh-4a1657251/
-GitHub
+
+GitHub : https://github.com/Balramsingh12233
+
 Email: balramsingh12233@gmail.com
+
 ⭐ Support
 
 If you like this project, consider giving it a star ⭐
